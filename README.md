@@ -1,89 +1,78 @@
-<br clear="both">
-
-<h1 align="center">Hi 👋! My name is Jonathan and I'm a Front-end developer & UI/UX designer</h1>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanFavorel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanFavorel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img alt="Développeur front-end et designer UI/UX, fondateur de DigiRepair" src="assets/hero-light.svg" width="100%">
+  </picture>
 </div>
 
-###
+<br>
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titre-apropos-dark.svg">
+  <img alt="À propos" src="assets/titre-apropos-light.svg" width="100%">
+</picture>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
+Je conçois des interfaces nettes et rapides, de la maquette sur **Figma** jusqu'à la mise en ligne. Côté web je travaille avec **Next.js**, **React** et **TypeScript** ; pour les logiciels de bureau avec **Electron**, et pour Android TV avec **Kotlin**.
 
-###
+Je suis aussi le fondateur de **[DigiRepair](https://digirepair.fr)**, un atelier de réparation de smartphones, PC, consoles et tablettes à Valenciennes. J'en fabrique moi-même le site, les logiciels internes et les vidéos.
 
-<br clear="both">
+<br>
 
-<div align="left">
-  <a href="jonathan_forexgenius" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jonathan-favorel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="favorel.jonathan@outlook.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="@FavorelJonathan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titre-realisations-dark.svg">
+  <img alt="Réalisations" src="assets/titre-realisations-light.svg" width="100%">
+</picture>
 
-###
+<p align="center">
+  <a href="https://digirepair.fr"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projet-digirepair-dark.svg">
+    <img alt="DigiRepair — le site de l'atelier, en Next.js" src="assets/projet-digirepair-light.svg" width="49%">
+  </picture></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projet-atelier-dark.svg">
+    <img alt="DigiRepair Atelier — logiciel de gestion de l'atelier" src="assets/projet-atelier-light.svg" width="49%">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projet-onde-dark.svg">
+    <img alt="Onde — lecteur IPTV pour Android TV et Freebox" src="assets/projet-onde-light.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projet-controller-lab-dark.svg">
+    <img alt="Controller Lab — banc de diagnostic pour manettes" src="assets/projet-controller-lab-light.svg" width="49%">
+  </picture>
+</p>
 
-<br clear="both">
+<br>
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/948886645950799903/1224164252076609557/IMG_0782.png?ex=661c7ecd&is=660a09cd&hm=40513d3c2f58f2ba4f86918607ad901f29f323a5fa30d18580c4f10036e7f9b3&"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titre-outils-dark.svg">
+  <img alt="Boîte à outils" src="assets/titre-outils-light.svg" width="100%">
+</picture>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/outils-dark.svg">
+  <img alt="Next.js, React, TypeScript, Tailwind CSS, Electron, Node.js, Kotlin, Jetpack Compose, Prisma, Supabase, Docker, Figma, Photoshop, Illustrator, After Effects, Remotion, HyperFrames" src="assets/outils-light.svg" width="100%">
+</picture>
 
-<img src="https://raw.githubusercontent.com/jonathanFavorel/jonathanFavorel/output/snake.svg" alt="Snake animation" />
+<br><br>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titre-contact-dark.svg">
+  <img alt="Me contacter" src="assets/titre-contact-light.svg" width="100%">
+</picture>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-favorel/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg">
+    <img alt="Me retrouver sur LinkedIn" src="assets/linkedin-light.svg" height="64">
+  </picture></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vague-dark.svg">
+  <img alt="" src="assets/vague-light.svg" width="100%">
+</picture>
